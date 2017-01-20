@@ -1,0 +1,3 @@
+This is a text file for Part 1 of the Git Magic assignment. 
+
+I am creating this in my local repo, and will merge it to my master branch.
